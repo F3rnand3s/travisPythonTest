@@ -2,7 +2,7 @@ import unittest
 
 class unitTesting(unittest.TestCase): 
     def setUp(self): 
-        print 'somet text 1'
+        print 'some text 1'
 
     def test_search_in_python_org(self):
         print 'some text 2'
