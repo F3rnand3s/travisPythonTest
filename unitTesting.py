@@ -1,6 +1,6 @@
 import unittest
 
-class unitTesting(unttest.TestCase): 
+class unitTesting(unittest.TestCase): 
     def setUp(self): 
         print 'some text 1'
 
