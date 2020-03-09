@@ -9,6 +9,8 @@ class unitTesting(unittest.TestCase):
 
     def tearDown(self):
         print 'some text 3'
+        print 'some text 4'
+        print 'some text 5'
 
 if __name__ == "__main__":
     unittest.main()
