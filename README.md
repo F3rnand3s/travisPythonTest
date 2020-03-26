@@ -1,2 +1,2 @@
 # travisPythonTest
- Small travis/python CI testing
+ Basic CI unit testing using Travis
